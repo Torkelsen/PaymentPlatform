@@ -33,3 +33,11 @@ The application uses:
 When running in development mode, access the Swagger UI at:
 - https://localhost:5001/swagger
 - http://localhost:5000/swagger 
+
+
+## Vipps
+Requires a business agreement
+Platform:
+https://portal.vippsmobilepay.com/
+Docs:
+https://developer.vippsmobilepay.com/
